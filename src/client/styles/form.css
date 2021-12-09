@@ -1,0 +1,36 @@
+form {
+    border: 1px solid #545454;
+    border-radius: 3px;
+    width: 1000px;
+    /* margin-top: 500px; */
+    right: 100px;
+    ;
+    padding: 100px;
+    position: relative;
+    top: 150px;
+}
+
+h3 {
+    position: relative;
+    top: 100px;
+}
+
+.pol {
+    position: relative;
+    top: 0px;
+    margin-top: 20px;
+    justify-content: space-between;
+    display: flex;
+}
+
+#name {
+    width: 500px;
+    height: 200px;
+}
+
+input {
+    padding: 5px 20px;
+    width: 100%;
+    line-height: 16px;
+    margin: 10px 0;
+}
